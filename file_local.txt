@@ -1,4 +1,2 @@
 Test file create to local repo
-
-Изменения
-Еще изменения
+Add info as Mikhail
